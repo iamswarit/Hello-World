@@ -1,0 +1,7 @@
+# Hello World in VRML
+
+Shape
+        {
+        geometry Text
+                {string "Hello World!"}
+        }
